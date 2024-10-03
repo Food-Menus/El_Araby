@@ -3,46 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./Static/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="icon" href="./images/logoooo.png" type="image/x-icon">
     <title>El-Araby</title>
 </head>
 
 <body>
-    
+
     <div class="sidebar">
 
         <h1 class="logo" href>El-Araby</h1>
         <div class="sidebar-menus">
             <br>
             <br>
-            <a href="index.html"><ion-icon name="home-outline"></ion-icon> القائمة الرئيسية </a>
+            <a href="./index.html"><ion-icon name="home-outline"></ion-icon> القائمة الرئيسية </a>
             <a href="https://www.facebook.com/Techno.Science.TC"><ion-icon name="logo-facebook"></ion-icon> صفحة الفيسبوك</a>
-            <a href="order.html"><ion-icon name="checkbox-outline"></ion-icon> أعداد طلب </a>
+            <a href="./Front-end/Pages/order.html"><ion-icon name="checkbox-outline"></ion-icon> أعداد طلب </a>
             <a  href="https://wa.me/+201147182463?text=مرحبا اريد التواصل معكم"><ion-icon name="logo-whatsapp"></ion-icon>تواصل معنا</a>
-            <a href="about.html"><ion-icon name="people-circle-outline"></ion-icon>من نحن</a>
+            <a href="./Front-end/Pages/about.html"><ion-icon name="people-circle-outline"></ion-icon>من نحن</a>
         </div>
         <div class="menu-off">
             <a href="#" class="menu-off" ><ion-icon name="close-outline" ></ion-icon>close</a>
         </div>
 
     </div>
-
     <!------------------------------------------------------------>
-
     <div class="main">
 
-        <div class="main-navbar">
-            <div class="profile"> <div class="menu-toggle"><ion-icon name="menu-outline" ></ion-icon></div></div>
-            <div class="img"><img  src="images/logo.png"></div>
-            <div class="profile"> <a href="location.html" class="user"><ion-icon name="location-outline" ></ion-icon></a></div>
-            
-        </div>
+    <div class="main-navbar">
+        <div class="profile"> <div class="menu-toggle"><ion-icon name="menu-outline" ></ion-icon></div></div>
+        <div class="img"><img  src="./Static/images/logo.png"></div>
+        <div class="profile"> <a href="./Front-end/Pages/location.html" class="user"><ion-icon name="location-outline" ></ion-icon></a></div>
+    </div>
+    <!------------------------------------------------------------>
 
+    <div>
         <div class="line">
             <marquee direction="right" ><p class="marquee"> استمتع بافضل تجربه طعام واقوى العروض الحصريه مع كبابجي و مطعم جزارة العربي </p> </marquee>
         </div>
+
 
         <div class="total-menus">
 
@@ -58,37 +59,37 @@
                 <div class="highlight-wrapper">
 
                     <div class="highlight-card">
-                        <img class="highlight-img" src="images/pizza (1).jpg">
+                        <img class="highlight-img" src="./Static/images/hawawshi.jpg">
                         <div class="highlight-desc">
-                            <div class="menu-item" ><h4>بيتزا مارجريتا</h4> <h4>80 جنية</h4></div>
+                            <div class="menu-item" ><h4 id="Home_type_1"></h4> <p id="Home_prise_1"></p></div>
+                        </div>
+                    </div> 
+
+                    <div class="highlight-card">
+                        <img class="highlight-img" src="./Static/images/mashwiat.jpg">
+                        <div class="highlight-desc">
+                            <div class="menu-item" ><h4 id="Home_type_2"></h4> <p id="Home_prise_2"></p></div>
                         </div>
                     </div>
 
                     <div class="highlight-card">
-                        <img class="highlight-img" src="images/meal.jpeg">
+                        <img class="highlight-img" src="./Static/images/fino.jpg">
                         <div class="highlight-desc">
-                            <div class="menu-item" ><h4>طبق كشري وسط</h4> <h4>30 جنيية</h4></div>
+                            <div class="menu-item" ><h4 id="Home_type_3"></h4> <p id="Home_prise_3"></p></div>
                         </div>
                     </div>
 
                     <div class="highlight-card">
-                        <img class="highlight-img" src="images/hlthy.jpeg">
+                        <img class="highlight-img" src="./Static/images/tagen.jpg">
                         <div class="highlight-desc">
-                            <div class="menu-item" ><h4> سلطة فواكة </h4> <h4>15 جنية</h4></div>
+                            <div class="menu-item" ><h4 id="Home_type_4"></h4> <p id="Home_prise_4"></p></div>
                         </div>
                     </div>
 
                     <div class="highlight-card">
-                        <img class="highlight-img" src="images/coffie.jpeg">
+                        <img class="highlight-img" src="./Static/images/warqet_lahm.jpg">
                         <div class="highlight-desc">
-                            <div class="menu-item" ><h4>قهوة لاتية</h4> <h4>15 جنية</h4></div>
-                        </div>
-                    </div>
-
-                    <div class="highlight-card">
-                        <img class="highlight-img" src="images/ice creem.jpeg">
-                        <div class="highlight-desc">
-                            <div class="menu-item" ><h4>ايس كريم وسط</h4> <h4>20 جنية</h4></div>
+                            <div class="menu-item" ><h4 id="Home_type_5"></h4> <p id="Home_prise_5"></p></div>
                         </div>
                     </div>
 
@@ -107,76 +108,88 @@
 
                 <div class="filter-wrapper">
 
-                <a href="Menus/dishs.html" >
+                <a href="./Front-end/Menus/Mashwiat.html" >
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="restaurant-outline"></ion-icon>
+                            <span class="material-icons">kebab_dining</span> 
                         </div>
-                        <p> قائمة الأطباق </p>
+                        <p> ألمشويات</p>
                     </div>
                 </a>
 
-                <a href="Menus/fastfood.html">
+                <a href="./Front-end/Menus/Hwawshy.html">
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="fast-food-outline"></ion-icon>
+                            <span class="material-icons">local_pizza</span> 
                         </div>
-                        <p>الوجبات السريعة</p>
+                        <p> الحواوشي</p>
                     </div>
                 </a>
 
-                <a href="Menus/pizza.html">
+                <a href="./Front-end/Menus/tagen.html">
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="pizza-outline"></ion-icon>
+                            <span class="material-icons">dinner_dining</span> 
                         </div>
-                        <p>قائمة البيتزا</p>
+                        <p>قائمة الطواجن</p>
                     </div>
                 </a>
 
-                <a href="Menus/sweety.html">
+                <a href="./Front-end/Menus/aurez.html">
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="ice-cream-outline"></ion-icon>
+                            <span class="material-icons">takeout_dining</span> 
                         </div>
-                        <p>قائمة الحلو</p>
+                        <p>قائمة الأرز</p>
                     </div>
                 </a>
 
-                <a href="Menus/hot.html">
+                <a href="./Front-end/Menus/salata.html">
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="cafe-outline"></ion-icon>
+                            <span class="material-icons">soup_kitchen</span> 
                         </div>
-                        <p>المشروبات الساخن</p>
+                        <p>قائمة السلطات</p>
                     </div>
                 </a>  
 
-                <a href="Menus/seefood.html">
+                <a href="./Front-end/Menus/sandwichat.html">
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="fish-outline"></ion-icon>
+                            <span class="material-icons">bakery_dining</span> 
                         </div>
-                        <p> السي فود </p>
+                        <p> السندوتشات</p>
                     </div>
                 </a>
 
-                <a href="Menus/helthy.html">
+                <a href="./Front-end/Menus/waraq_lahm.html">
                     <div class="filter-card">
                         <div class="filter-icon">
-                            <ion-icon name="nutrition-outline"></ion-icon>
+                            <span class="material-icons">rice_bowl</span> 
                         </div>
-                        <p>الاكل الصحي</p>
+                        <p> ورق اللحمة</p>
                     </div>
                 </a>
+
+                <a href="./Front-end/Menus/sawany.html">
+                    <div class="filter-card">
+                        <div class="filter-icon">
+                            <span class="material-icons">bento</span> 
+                        </div>
+                        <p>قائمة الصواني</p>
+                    </div>
+                </a>
+
                 </div>
+
             </div>
 
         </div>
 
+
         <div class="dilevry">
             <h5 class="myButton"  id="myButton"> ارقام الديلفري </h5>
-            <h5 id="showImage" class="myButton-1">عرض الكيو ار كود</h5>
+            <h5 id="showImage" class="myButton-1"> الكيو ار كود <ion-icon name="qr-code"></ion-icon></h5>
 
             <div id="messageBox" class="hidden">
                 <h3 class="phonesnum">ارقام مطعم جزارة العربي</h3>
@@ -189,20 +202,27 @@
 
         </div>
 
+
         <div class="footer__bar">
             <hr class="divider">
            <p>Copyright © 2024 Techno Science All rights reserved </p> 
         </div>
+    </div>
+    <!------------------------------------------------------------>
 
-        <img src="images/QRcode_EM22.png" id="overlayImage" alt="صورة عائمة" style="display: none;">
-        <a href="./order.html"><div class="counter"><span> عدد العناصر المحددة: 0 </span><ion-icon name="cart-outline" class="icon-1"></ion-icon></div></a>
+        <img src="./Static/images/QRcode_EL-Araby.png" id="overlayImage" alt="صورة عائمة" style="display: none;">
+        <a href="./Front-end/Pages/order.html"><div class="counter"><span> عدد العناصر المحددة: 0 </span><ion-icon name="cart-outline" class="icon-1"></ion-icon></div></a>
+
+    </div>
 
 </body>
 
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
     <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
-    <script src="JavaScript.js"></script>
-    <script src="script.js"></script>
-    <script src="app.js"></script>
+    <script src="./Back-end/JavaScript.js"></script>
+    <script src="./Back-end/script.js"></script>
+    <script src="./Back-end/app.js"></script>
+    <script src="./Back-end/Home.js"></script>
+
 </html>
