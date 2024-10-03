@@ -3,11 +3,11 @@
 
 
 :root {
-    --primaryColor: #444444;
-    --seconderyColor: #c42323;
+    --primaryColor: #00590d;
+    --seconderyColor: #1da32f;
     --whiteColor: #fff;
     --blackColor: #333333;
-    --softGreenColor: #ffcd27;
+    --softGreenColor: #d0ffcd;
     --darkGreyColor: #a7a7a7;
     --greyColor: #f5f5f5;
     --whiteHeader: #ffffff
@@ -88,9 +88,9 @@ body {
     justify-content: space-around;
     background-color: var(--whiteColor);
     border-radius: 50px;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 1),
-    0 0 10px rgb(248, 149, 0),
-    0 0 10px rgb(255, 183, 0);
+    box-shadow: 0 0 10px rgb(4, 255, 63),
+    0 0 10px rgb(0, 248, 0),
+    0 0 10px rgb(13, 255, 0);
 }
 .img img {
     width: 430px;
