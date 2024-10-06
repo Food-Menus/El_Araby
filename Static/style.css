@@ -65,7 +65,6 @@ body {
 }
 
 
-
 .main {
     width: 100%;
     height: max-content;
@@ -203,7 +202,6 @@ body {
     background-color: var(--whiteColor);
     box-shadow: rgba(149, 157 ,165 ,0.2) 0px 8px 24px;
 }
-menu-item
 
 
 .total-menus {
@@ -738,7 +736,6 @@ input[type="text"], button {
     gap: 5px;
 }
 .menu-item {
-    width: 100%;
     padding: 5px;
     cursor: pointer;
     background-color: var(--greyColor);
