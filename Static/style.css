@@ -188,11 +188,13 @@ body {
     object-position: center;
 }
 .highlight-desc h4 {
+    width: 100%;
     font-size: 60px;
     padding-top: 30px;
     color: var(--primaryColor);
 }
 .highlight-desc p {
+    width: 100%;
     color: var(--blackColor);
     padding-top: 20px;
     font-size: 50px;

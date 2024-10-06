@@ -1,7 +1,6 @@
 fetch('./../../Data-base/Home.json')
   .then(response => response.json())
   .then(data => {
-
     document.getElementById('Home_type_1').textContent = data.Home_type_1;
     document.getElementById('Home_prise_1').textContent = data.Home_prise_1;
     document.getElementById('Home_type_2').textContent = data.Home_type_2;
