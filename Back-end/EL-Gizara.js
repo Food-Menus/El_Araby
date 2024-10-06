@@ -1,4 +1,4 @@
-fetch('./../../Data-base/EL-Gizara.json')
+fetch('./EL-Gizara.json')
   .then(response => response.json())
   .then(data => {
 
