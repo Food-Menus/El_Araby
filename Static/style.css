@@ -1257,9 +1257,9 @@ input[type="text"], button {
         justify-content: space-around;
         background-color: var(--whiteColor);
         border-radius: 50px;
-        box-shadow: 0 0 10px rgba(255, 255, 255, 1),
-        0 0 10px rgb(248, 149, 0),
-        0 0 10px rgb(255, 183, 0);
+        box-shadow: 0 0 10px rgb(4, 255, 63),
+        0 0 10px rgb(0, 248, 0),
+        0 0 10px rgb(13, 255, 0);
     }
     .img img {
         width: 220px;
@@ -1324,9 +1324,9 @@ input[type="text"], button {
         justify-content: space-around;
         background-color: var(--whiteColor);
         border-radius: 50px;
-        box-shadow: 0 0 10px rgba(255, 255, 255, 1),
-        0 0 10px rgb(248, 149, 0),
-        0 0 10px rgb(255, 183, 0);
+        box-shadow: 0 0 10px rgb(4, 255, 63),
+        0 0 10px rgb(0, 248, 0),
+        0 0 10px rgb(13, 255, 0);
     }
     .img img {
         width: 200px;
@@ -1609,9 +1609,9 @@ input[type="text"], button {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 0 10px rgba(255, 255, 255, 1),
-    0 0 20px rgb(255, 255, 255),
-    0 0 20px rgb(255, 183, 0);
+    box-shadow: 0 0 10px rgb(4, 255, 63),
+    0 0 10px rgb(0, 248, 0),
+    0 0 10px rgb(13, 255, 0);
     }   
     #messageBox h3 {
     background-color: var(--whiteColor);
@@ -1726,9 +1726,9 @@ input[type="text"], button {
         justify-content: space-around;
         background-color: var(--whiteColor);
         border-radius: 50px;
-        box-shadow: 0 0 10px rgba(255, 255, 255, 1),
-        0 0 10px rgb(248, 149, 0),
-        0 0 10px rgb(255, 183, 0);
+        box-shadow: 0 0 10px rgb(4, 255, 63),
+        0 0 10px rgb(0, 248, 0),
+        0 0 10px rgb(13, 255, 0);
     }
     .img img {
         width: 180px;
