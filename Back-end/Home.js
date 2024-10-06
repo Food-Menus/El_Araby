@@ -1,4 +1,4 @@
-fetch('./Home.json')
+fetch('./../Data-base/Home.json')
   .then(response => response.json())
   .then(data => {
     document.getElementById('Home_type_1').textContent = data.Home_type_1;
