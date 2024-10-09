@@ -1,7 +1,15 @@
 {
     "Waraq_lahm_type_1" : "ورقة لحمة كندوز كيلو",
     "Waraq_lahm_prise_1" : "700",
-    "Waraq_lahm_type_2" : "ورقة لحمة ضاني كيلو",
-    "Waraq_lahm_prise_2" : "750"
+    "Waraq_lahm_type_2" : "ورقة لحمة كندوز نص كيلو",
+    "Waraq_lahm_prise_2" : "355",
+    "Waraq_lahm_type_3" : "ورقة لحمة كندوز ربع كيلو",
+    "Waraq_lahm_prise_3" : "180",
+    "Waraq_lahm_type_4" : "ورقة لحمة ضاني كيلو",
+    "Waraq_lahm_prise_4" : "750",
+    "Waraq_lahm_type_5" : "ورقة لحمة ضاني نص كيلو",
+    "Waraq_lahm_prise_5" : "355",
+    "Waraq_lahm_type_6" : "ورقة لحمة ضاني ربع كيلو",
+    "Waraq_lahm_prise_6" : "180"
     
 }
