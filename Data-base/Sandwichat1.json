@@ -8,6 +8,24 @@
     "Sandwichat1_type_4" : "سندوتش شاورما فراخ",
     "Sandwichat1_prise_4" : "40",
     "Sandwichat1_type_5" : "سندوتش مخاصي جريل",
-    "Sandwichat1_prise_5" : "40"
+    "Sandwichat1_prise_5" : "40",
+
+
+
+
+    "Add_type_1" : "",
+    "Add_prise_1" : "",
+
+    "Add_type_2" : "",
+    "Add_prise_2" : "",
+
+    "Add_type_3" : "",
+    "Add_prise_3" : "",
+
+    "Add_type_4" : "",
+    "Add_prise_4" : "",
+
+    "Add_type_5" : "",
+    "Add_prise_5" : ""
     
 }

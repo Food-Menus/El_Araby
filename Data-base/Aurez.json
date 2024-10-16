@@ -4,6 +4,21 @@
     "Aurez_type_2" : "أرز بسمتي",
     "Aurez_prise_2" : "30",
     "Aurez_type_3" : "مكرونة",
-    "Aurez_prise_3" : "30"
+    "Aurez_prise_3" : "30",
+
+    "Add_type_1" : "",
+    "Add_prise_1" : "",
+
+    "Add_type_2" : "",
+    "Add_prise_2" : "",
+
+    "Add_type_3" : "",
+    "Add_prise_3" : "",
+
+    "Add_type_4" : "",
+    "Add_prise_4" : "",
+
+    "Add_type_5" : "",
+    "Add_prise_5" : ""
     
 }

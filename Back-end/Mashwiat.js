@@ -81,4 +81,18 @@ fetch('./../../Data-base/Mashwiat.json')
     document.getElementById('Mashwiat_type_14').textContent = data.Mashwiat_type_14;
     document.getElementById('Mashwiat_prise_14').textContent = data.Mashwiat_prise_14;
     
+
+
+
+    document.getElementById('Add_type_1').textContent = data.Add_type_1;
+    document.getElementById('Add_prise_1').textContent = data.Add_prise_1;
+    document.getElementById('Add_type_2').textContent = data.Add_type_2;
+    document.getElementById('Add_prise_2').textContent = data.Add_prise_2;
+    document.getElementById('Add_type_3').textContent = data.Add_type_3;
+    document.getElementById('Add_prise_3').textContent = data.Add_prise_3;
+    document.getElementById('Add_type_4').textContent = data.Add_type_4;
+    document.getElementById('Add_prise_4').textContent = data.Add_prise_4;
+    document.getElementById('Add_type_5').textContent = data.Add_type_5;
+    document.getElementById('Add_prise_5').textContent = data.Add_prise_5;
+
   });

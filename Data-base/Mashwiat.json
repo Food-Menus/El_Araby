@@ -76,6 +76,23 @@
     "Mashwiat_type_13" : "حمام محشي",
     "Mashwiat_prise_13" : "150",
     "Mashwiat_type_14" : "حمام مشوي",
-    "Mashwiat_prise_14" : "130"
+    "Mashwiat_prise_14" : "130",
 
+
+
+
+    "Add_type_1" : "",
+    "Add_prise_1" : "",
+
+    "Add_type_2" : "",
+    "Add_prise_2" : "",
+
+    "Add_type_3" : "",
+    "Add_prise_3" : "",
+
+    "Add_type_4" : "",
+    "Add_prise_4" : "",
+
+    "Add_type_5" : "",
+    "Add_prise_5" : ""
 }

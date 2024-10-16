@@ -1,5 +1,22 @@
 {
     "Sawany_type_1" : "قخدة ضاني حسب الوزن + أرز + سلطة",
-    "Sawany_type_2" : "كتف ضاني حسب الوزن + أرز + سلطة"
+    "Sawany_type_2" : "كتف ضاني حسب الوزن + أرز + سلطة",
 
+
+
+
+    "Add_type_1" : "",
+    "Add_prise_1" : "",
+
+    "Add_type_2" : "",
+    "Add_prise_2" : "",
+
+    "Add_type_3" : "",
+    "Add_prise_3" : "",
+
+    "Add_type_4" : "",
+    "Add_prise_4" : "",
+
+    "Add_type_5" : "",
+    "Add_prise_5" : ""
 }

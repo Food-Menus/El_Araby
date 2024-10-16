@@ -16,6 +16,24 @@
     "Sandwichat_type_8" : "رغيف سجق",
     "Sandwichat_prise_8" : "35",
     "Sandwichat_type_9" : "رغيف كبدة",
-    "Sandwichat_prise_9" : "35"
+    "Sandwichat_prise_9" : "35",
+
+
+
+
+    "Add_type_1" : "",
+    "Add_prise_1" : "",
+
+    "Add_type_2" : "",
+    "Add_prise_2" : "",
+
+    "Add_type_3" : "",
+    "Add_prise_3" : "",
+
+    "Add_type_4" : "",
+    "Add_prise_4" : "",
+
+    "Add_type_5" : "",
+    "Add_prise_5" : ""
     
 }
