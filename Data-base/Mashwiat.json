@@ -1,17 +1,16 @@
 {
     "Mashwiat_type_1" : "كيلو ريش ضاني",
-    "Mashwiat_prise_1" : "1000",
+    "Mashwiat_prise_1" : "850",
     "Mashwiat_type_1_1" : "نص كيلو ريش ضاني",
-    "Mashwiat_prise_1_1" : "505",
+    "Mashwiat_prise_1_1" : "450",
     "Mashwiat_type_1_2" : "ربع كيلو ريش ضاني",
-    "Mashwiat_prise_1_2" : "260",
+    "Mashwiat_prise_1_2" : "230",
 
     "Mashwiat_type_2" : "كيلو كباب ضاني",
-    "Mashwiat_prise_2" : "1100",
+    "Mashwiat_prise_2" : "850",
     "Mashwiat_type_2_1" : "نص كيلو كباب ضاني",
-    "Mashwiat_prise_2_1" : "555",
-    "Mashwiat_type_2_2" : "ربع كيلو كباب ضاني",
-    "Mashwiat_prise_2_2" : "280",
+    "Mashwiat_prise_2_1" : "450",
+    "Mashwiat_type_2_2" : "ربع كيلو كباب ضاني","Mashwiat_prise_2_2" : "230",
 
     "Mashwiat_type_3" : "كيلو كفتة كندوز",
     "Mashwiat_prise_3" : "600",
@@ -42,11 +41,11 @@
     "Mashwiat_prise_6_2" : "190",
 
     "Mashwiat_type_7" : "كيلو طرب",
-    "Mashwiat_prise_7" : "800",
+    "Mashwiat_prise_7" : "750",
     "Mashwiat_type_7_1" : "نص كيلو طرب",
-    "Mashwiat_prise_7_1" : "405",
+    "Mashwiat_prise_7_1" : "330",
     "Mashwiat_type_7_2" : "ربع كيلو طرب",
-    "Mashwiat_prise_7_2" : "210",
+    "Mashwiat_prise_7_2" : "200",
 
     "Mashwiat_type_8" : "كيلو مشكل مشوي",
     "Mashwiat_prise_8" : "800",
@@ -55,7 +54,7 @@
     "Mashwiat_type_8_2" : "ربع كيلو مشكل مشوي",
     "Mashwiat_prise_8_2" : "210",
 
-    "Mashwiat_type_9" : "كيلو تيفه",
+    "Mashwiat_type_9" : "كيلونيفه",
     "Mashwiat_prise_9" : "600",
     "Mashwiat_type_9_1" : "نص كيلو تيفه",
     "Mashwiat_prise_9_1" : "305",
